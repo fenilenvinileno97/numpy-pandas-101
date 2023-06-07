@@ -1,0 +1,7 @@
+Date,Product,Category,Region,Revenue
+01/01/22,Product A,Electronics,East,100
+01/01/22,Product B,Apparel,East,150
+01/01/22,Product C,Electronics,West,200
+01/02/22,Product A,Electronics,East,120
+01/02/22,Product B,Apparel,West,180
+01/02/22,Product C,Electronics,West,250
