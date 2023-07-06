@@ -9,7 +9,7 @@ def read_csv_with_encoding(filepath, encoding):
 
 def run():
     file_path = '../../Datasets/CO2_emission_by_countries.csv'
-    encodings = ['CP949', 'euc-kr', 'utf-8']
+    encodings = ['CP949', 'euc-kr', 'utf-8', 'windows-1252' ]
 
     for encoding in encodings:
         df = read_csv_with_encoding(file_path, encoding)
